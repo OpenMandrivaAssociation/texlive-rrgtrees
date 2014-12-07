@@ -6,7 +6,7 @@
 # catalog-version 1.1
 Name:		texlive-rrgtrees
 Version:	1.1
-Release:	7
+Release:	8
 Summary:	Linguistic tree diagrams for Role and Reference Grammar (RRG) with LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rrgtrees
